@@ -17,6 +17,8 @@ A laboratory member who documented his prediction of neutron stars' existence wa
 The flag is the nickname he gave to the car (all lowercase). 
 *As usual, the format is ATHACKCTF{}
 
+No files need to be downloaded by participants for this challenge
+
 
 ## Category(ies)
 
