@@ -9,15 +9,14 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Oleander (Jeslyn)
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+A laboratory member who documented his prediction of neutron stars' existence was acquainted with a famous theoretical physicist. The latter (the renowned physicist) owned a dark green Chrysler which he had nicknamed.
+The flag is the nickname he gave to the car (all lowercase). 
+*As usual, the format is ATHACKCTF{}
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
 
 ## Category(ies)
 
