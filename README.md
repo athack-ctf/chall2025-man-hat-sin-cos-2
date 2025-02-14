@@ -20,18 +20,8 @@ The flag is the nickname he gave to the car (all lowercase).
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+
 
 ---
 
