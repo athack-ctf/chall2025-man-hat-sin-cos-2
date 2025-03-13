@@ -6,7 +6,7 @@ description: |
 
     NOTE: The flag format is `ATHACKCTF{_}` where `_` is the nickname he gave to the car, in lowercase.
     
-value: 50
+value: 100
 
 type: standard
 
