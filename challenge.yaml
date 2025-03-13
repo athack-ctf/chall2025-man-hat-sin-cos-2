@@ -1,34 +1,24 @@
-# Name should be "Challenge name" if only one flag, or
-# "Challenge name - 1", "Challenge name - 2", etc. if multiple ones.
-# Be careful of the spaces before and after the '-'
 name: "Man-Hat-Sin/Cos - 2"
-author: ""
+author: "Jeslyn"
 category: <OSINT>
 description: |
     A laboratory member who documented his prediction of neutron stars' existence was acquainted with a famous theoretical physicist. The latter (the renowned physicist) owned a dark green Chrysler which he had nicknamed.
 
     NOTE: The flag format is `ATHACKCTF{_}` where `_` is the nickname he gave to the car, in lowercase.
     
-value: 0
+value: 50
 
-# Let's put the challenges as standard for now and we can script to change
 type: standard
 
-
-# Flags specify answers that your challenge use. You should generally provide at least one.
 flags:
   - type: "static"
     content: "ATHACKCTF{garuda}"
     data: "case_insensitive"
 
-
-# Available: beginner, interac
 tags:
 
-# Provide paths to files from the same directory that this file is in
 files:
 
-# Put hidden by default
-state: hidden
+state: visible
 
 version: "0.1"
