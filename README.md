@@ -1,53 +1,41 @@
-# Chall - 🚹 🎩 sinθ/cosθ part 2
+# @HACK 2025: 🚹 🎩 $\frac{\sin{\theta}}{\cos{\theta}}$ [PART 2]
 
-> A brief description of the challenge
+> Authored by [Jeslyn](https://github.com/JenLys).
 
-## Type
+- **Category**: `OSINT`
+- **Value**: `100 points`
+- **Tags**: `beginner`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> A laboratory member who documented his prediction of neutron stars' existence was acquainted with a famous theoretical physicist. The latter (the renowned physicist) owned a dark green Chrysler which he had nicknamed.
+> 
+> NOTE: The flag format is `ATHACKCTF{_}` where `_` is the nickname he gave to the car, in lowercase.
+> 
 
-## Designer(s)
+## Reveal Flag
 
-- Oleander (Jeslyn)
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-## Description
+Did you **REALLY** try solving this challenge?
 
-A laboratory member who documented his prediction of neutron stars' existence was acquainted with a famous theoretical physicist. The latter (the renowned physicist) owned a dark green Chrysler which he had nicknamed.
-The flag is the nickname he gave to the car (all lowercase). 
-*As usual, the format is ATHACKCTF{}
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-No files need to be downloaded by participants for this challenge
+Flag: `ATHACKCTF{garuda}`
 
-
-## Category(ies)
-
-- `osint`
+</details>
+</details>
 
 
 ---
 
-# Project Structure
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
 
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Anis and Hugo).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
